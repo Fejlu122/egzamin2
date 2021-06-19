@@ -1,1 +1,1 @@
-# egzamin2
+Imie i nazwisko
